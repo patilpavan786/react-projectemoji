@@ -10,7 +10,7 @@ export default function Home() {
     
         <h3>Project BY </h3>
         
-        <p>RICHA BHARTI</p>
+        <p>pavan patil</p>
        
         </div>
         </div>
